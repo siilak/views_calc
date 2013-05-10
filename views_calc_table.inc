@@ -11,7 +11,7 @@
  */
 class views_calc_table extends views_plugin_style_table {
 
-  /**
+  /** 
    * Option definition.
    */
   function option_definition() {
